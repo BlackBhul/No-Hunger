@@ -1,0 +1,6 @@
+name: No-Hunger
+main: nohunger.MainNoHunger
+version: 1.0
+author: BlackBhul
+description: You won't be hungry anymore!
+commands: {}
